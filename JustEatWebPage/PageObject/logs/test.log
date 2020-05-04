@@ -1,0 +1,6 @@
+2020-05-04 12:12:14,427:root:INFO:Home Page Order takeaway online from 30,000+ food delivery restaurants. | Just Eat is loaded successfully: 
+2020-05-04 12:12:14,983:root:INFO:ContentTitle Tuck into a takeaway today and ContentSubTitle Find restaurants delivering right now, near you are displayed successfully: 
+2020-05-04 12:12:15,925:root:INFO:Enter your postal code Enter your postcode and Search Button are displayed successfully: 
+2020-05-04 12:13:08,353:root:INFO:Total number 1043 open restaurants of filtered resturants are displayed for given postal code AR511AA are displayed successfully: 
+2020-05-04 12:13:50,302:root:INFO:Error message No open restaurants is displayed for given invalid postal code AR51AA
+2020-05-04 12:14:27,304:root:INFO:Error message Please enter a postcode is displayed for given null postal code
